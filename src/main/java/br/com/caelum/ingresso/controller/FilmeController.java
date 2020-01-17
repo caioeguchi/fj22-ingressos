@@ -113,14 +113,4 @@ public class FilmeController {
     }
     
 
-
-	public OmdbClient getClient() {
-		return client;
-	}
-
-
-	public void setClient(OmdbClient client) {
-		this.client = client;
-	}
-
 }
